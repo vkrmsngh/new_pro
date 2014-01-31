@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 164
+/Ref_board/Trunk/u-boot:33-66
+/Ref_board/branches/expand_rootfs/u-boot:39-43
+/Ref_board/branches/feature00/u-boot:21-22
+/Ref_board/branches/rfs_testing/u-boot:48-61
+END

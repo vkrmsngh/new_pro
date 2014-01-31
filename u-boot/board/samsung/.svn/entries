@@ -1,0 +1,64 @@
+10
+
+dir
+141
+svn+ssh://vikrams@192.168.5.150/BSQI_USNA/target_board/trunk/u-boot/board/samsung
+svn+ssh://vikrams@192.168.5.150/BSQI_USNA
+
+
+
+2013-11-26T04:40:55.399461Z
+91
+abraham
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4741e400-cc4a-49c4-aef7-42da208c97a2
+
+smdk2410
+dir
+
+arndale
+dir
+
+common
+dir
+
+smdkv310
+dir
+
+dts
+dir
+
+smdk5250
+dir
+
+goni
+dir
+
+trats
+dir
+
+universal_c210
+dir
+
+trats2
+dir
+
+smdkc100
+dir
+
+origen
+dir
+

@@ -1,0 +1,901 @@
+10
+
+dir
+141
+svn+ssh://vikrams@192.168.5.150/BSQI_USNA/target_board/trunk/u-boot/board
+svn+ssh://vikrams@192.168.5.150/BSQI_USNA
+
+
+
+2014-01-09T04:16:34.452193Z
+134
+vikrams
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4741e400-cc4a-49c4-aef7-42da208c97a2
+
+cpu86
+dir
+
+actux1
+dir
+
+sandburst
+dir
+
+cpu87
+dir
+
+actux2
+dir
+
+actux3
+dir
+
+atc
+dir
+
+actux4
+dir
+
+palmld
+dir
+
+genesi
+dir
+
+bf609-ezkit
+dir
+
+miromico
+dir
+
+cm-bf533
+dir
+
+bf537-srv1
+dir
+
+blackstamp
+dir
+
+bf538f-ezkit
+dir
+
+intercontrol
+dir
+
+st
+dir
+
+ipek01
+dir
+
+galaxy5200
+dir
+
+comelit
+dir
+
+sbc8641d
+dir
+
+cm5200
+dir
+
+LEOX
+dir
+
+ti
+dir
+
+emk
+dir
+
+adder
+dir
+
+8dtech
+dir
+
+jse
+dir
+
+cm-bf548
+dir
+
+sc3
+dir
+
+cm-bf537e
+dir
+
+BuS
+dir
+
+freescale
+dir
+
+bluewater
+dir
+
+Marvell
+dir
+
+svm_sc8xx
+dir
+
+siemens
+dir
+
+ppmc7xx
+dir
+
+bf561-ezkit
+dir
+
+cm-bf537u
+dir
+
+bf527-sdp
+dir
+
+bf527-ad7160-eval
+dir
+
+ifm
+dir
+
+RRvision
+dir
+
+sacsng
+dir
+
+cloudengines
+dir
+
+teejet
+dir
+
+openrisc
+dir
+
+psyent
+dir
+
+nx823
+dir
+
+armltd
+dir
+
+exmeritus
+dir
+
+earthlcd
+dir
+
+prodrive
+dir
+
+ivm
+dir
+
+sbc8349
+dir
+
+linkstation
+dir
+
+taskit
+dir
+
+renesas
+dir
+
+dnp5370
+dir
+
+iomega
+dir
+
+pm520
+dir
+
+ispan
+dir
+
+highbank
+dir
+
+xilinx
+dir
+
+htkw
+dir
+
+evb64260
+dir
+
+cm-bf561
+dir
+
+korat
+dir
+
+socrates
+dir
+
+hermes
+dir
+
+RPXlite
+dir
+
+tqc
+dir
+
+bf525-ucr2
+dir
+
+lwmon
+dir
+
+keymile
+dir
+
+genietv
+dir
+
+atmel
+dir
+
+qemu-malta
+dir
+
+icpdas
+dir
+
+balloon3
+dir
+
+st-ericsson
+dir
+
+LaCie
+dir
+
+v38b
+dir
+
+CarMediaLab
+dir
+
+rpxsuper
+dir
+
+mpl
+dir
+
+ms7750se
+dir
+
+ep8248
+dir
+
+enbw
+dir
+
+scb9328
+dir
+
+spd8xx
+dir
+
+davedenx
+dir
+
+trizepsiv
+dir
+
+sbc405
+dir
+
+compulab
+dir
+
+munices
+dir
+
+in-circuit
+dir
+
+imgtec
+dir
+
+zipitz2
+dir
+
+compal
+dir
+
+friendlyarm
+dir
+
+ait
+dir
+
+stx
+dir
+
+ppmc8260
+dir
+
+netphone
+dir
+
+pxa255_idp
+dir
+
+RPXlite_dw
+dir
+
+esteem192e
+dir
+
+bct-brettl2
+dir
+
+zeus
+dir
+
+quad100hd
+dir
+
+xaeniax
+dir
+
+cray
+dir
+
+woodburn
+dir
+
+kup
+dir
+
+mosaixtech
+dir
+
+zpc1900
+dir
+
+chromebook-x86
+dir
+
+afeb9260
+dir
+
+v37
+dir
+
+timll
+dir
+
+vpac270
+dir
+
+boundary
+dir
+
+mcc200
+dir
+
+ep8260
+dir
+
+pn62
+dir
+
+bf518f-ezbrd
+dir
+
+bc3450
+dir
+
+sbc8548
+dir
+
+amcc
+dir
+
+bf537-stamp
+dir
+
+manroland
+dir
+
+egnite
+dir
+
+esd
+dir
+
+esg
+dir
+
+cpc45
+dir
+
+inka4x0
+dir
+
+idmr
+dir
+
+h2200
+dir
+
+matrix_vision
+dir
+
+olimex
+dir
+
+AndesTech
+dir
+
+etin
+dir
+
+r360mpi
+dir
+
+cobra5272
+dir
+
+Seagate
+dir
+
+pb1x00
+dir
+
+mousse
+dir
+
+RPXClassic
+dir
+
+netta
+dir
+
+qemu-mips
+dir
+
+palmtc
+dir
+
+cm41xx
+dir
+
+pandora
+dir
+
+gaisler
+dir
+
+imx31_phycore
+dir
+
+sheldon
+dir
+
+funkwerk
+dir
+
+nokia
+dir
+
+csb272
+dir
+
+schulercontrol
+dir
+
+bf533-ezkit
+dir
+
+muas3001
+dir
+
+raidsonic
+dir
+
+musenki
+dir
+
+ep82xxm
+dir
+
+eukrea
+dir
+
+pm826
+dir
+
+pm828
+dir
+
+ibf-dsp561
+dir
+
+hymod
+dir
+
+motionpro
+dir
+
+gen860t
+dir
+
+eltec
+dir
+
+snmc
+dir
+
+wandboard
+dir
+
+pcs440ep
+dir
+
+rbc823
+dir
+
+ip860
+dir
+
+a3m071
+dir
+
+bf527-ezkit
+dir
+
+t3corp
+dir
+
+cm4008
+dir
+
+rsdproto
+dir
+
+bf506f-ezkit
+dir
+
+rattler
+dir
+
+cogent
+dir
+
+bf537-minotaur
+dir
+
+a3000
+dir
+
+bf526-ezbrd
+dir
+
+quantum
+dir
+
+phytec
+dir
+
+mx1ads
+dir
+
+atmark-techno
+dir
+
+mbx8xx
+dir
+
+pr1
+dir
+
+incaip
+dir
+
+omicron
+dir
+
+toradex
+dir
+
+corscience
+dir
+
+dave
+dir
+
+icu862
+dir
+
+palmtreo680
+dir
+
+dbau1x00
+dir
+
+ms7720se
+dir
+
+bf537-pnav
+dir
+
+ttcontrol
+dir
+
+ppcag
+dir
+
+denx
+dir
+
+iphase4539
+dir
+
+avionic-design
+dir
+
+utx8245
+dir
+
+technexion
+dir
+
+Barix
+dir
+
+tcm-bf518
+dir
+
+faraday
+dir
+
+nvidia
+dir
+
+spear
+dir
+
+bf561-acvilon
+dir
+
+avnet
+dir
+
+samsung
+dir
+
+d-link
+dir
+
+shmin
+dir
+
+buffalo
+dir
+
+calao
+dir
+
+canmb
+dir
+
+lwmon5
+dir
+
+astro
+dir
+
+gdsys
+dir
+
+ve8313
+dir
+
+total5200
+dir
+
+karo
+dir
+
+gw8260
+dir
+
+pdm360ng
+dir
+
+icecube
+dir
+
+csb472
+dir
+
+cu824
+dir
+
+cmi
+dir
+
+hale
+dir
+
+kmc
+dir
+
+espt
+dir
+
+alphaproject
+dir
+
+bluegiga
+dir
+
+jupiter
+dir
+
+congatec
+dir
+
+blackvme
+dir
+
+hidden_dragon
+dir
+
+mimc
+dir
+
+isee
+dir
+
+netvia
+dir
+
+flagadm
+dir
+
+sandbox
+dir
+
+eXalion
+dir
+
+spc1920
+dir
+
+udoo
+dir
+
+tcm-bf537
+dir
+
+a4m072
+dir
+
+bf548-ezkit
+dir
+
+w7o
+dir
+
+ep88x
+dir
+
+davinci
+dir
+
+jornada
+dir
+
+mpc8308_p1m
+dir
+
+br4
+dir
+
+mvblue
+dir
+
+sandpoint
+dir
+
+creative
+dir
+
+ids8247
+dir
+
+bf533-stamp
+dir
+
+syteco
+dir
+
+altera
+dir
+
+sixnet
+dir
+
+micronas
+dir
+
+ip04
+dir
+
+fads
+dir
+
+mpr2
+dir
+
+lubbock
+dir
+
+logicpd
+dir
+
+cm-bf527
+dir
+
+dvlhost
+dir
+
+g2000
+dir
+
+ronetix
+dir
+
+ms7722se
+dir
+
+overo
+dir
+
+sandisk
+dir
+
+netta2
+dir
+
+xes
+dir
+
+armadeus
+dir
+
+raspberrypi
+dir
+

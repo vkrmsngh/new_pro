@@ -1,0 +1,46 @@
+10
+
+dir
+141
+svn+ssh://vikrams@192.168.5.150/BSQI_USNA/target_board/trunk/u-boot/arch/m68k/cpu
+svn+ssh://vikrams@192.168.5.150/BSQI_USNA
+
+
+
+2013-11-26T04:40:55.399461Z
+91
+abraham
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4741e400-cc4a-49c4-aef7-42da208c97a2
+
+mcf52x2
+dir
+
+mcf523x
+dir
+
+mcf532x
+dir
+
+mcf547x_8x
+dir
+
+mcf5227x
+dir
+
+mcf5445x
+dir
+
